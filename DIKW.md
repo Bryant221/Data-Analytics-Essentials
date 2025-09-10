@@ -11,10 +11,10 @@
 - Kebijakan pengetatan mobilitas (PPKM)
 - Vaksinasi massal dilakukan sepanjang periode ini.
 
-# 3. Knowledge
+# 3. Knowledge 🧠
 - Pola menunjukkan korelasi antara lonjakan kasus (Delta/Omicron) dengan pengetatan mobilitas, dan penurunan beban sistem kesehatan setelah cakupan vaksinasi meningkat.  
 - Data kasus lebih bermakna jika dibaca bersama laju testing dan vaksinasi.
 
-# 4. Wisdom
+# 4. Wisdom 🎯
 - Menggunakan **early warning** berbasis indikator gabungan (positivity rate, rawat inap, uptake vaksin booster), bukan angka kasus mentah saja.  
 - Komunikasi risiko perlu menekankan **ketidakpastian data** (testing, pelaporan) sehingga kebijakan tidak semata “kasus harian”.
