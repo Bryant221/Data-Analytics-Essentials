@@ -1,1 +1,2 @@
-## Analisis DIKW: 
+## Analisis DIKW: COVID‑19 di Indonesia (2020–2022)
+> COVID-19 pertama kali masuk ke Indonesia pada 2 Maret 2020, waktu itu diumumkan ada dua kasus di Depok. Dari situ penyebarannya makin luas sampai akhirnya hampir semua provinsi kena dampaknya. Pandemi ini nggak cuma soal kesehatan, tapi juga bikin ekonomi goyah, sekolah harus pindah ke sistem online, dan aktivitas masyarakat banyak dibatasi. Pemerintah sempat coba beberapa aturan, mulai dari PSBB, lalu PPKM yang lumayan ketat, sampai akhirnya fokus ke vaksinasi nasional yang dimulai Januari 2021. Dan puncak kasus paling membuat kewalahan pada saat itu adalah varian virus Delta dipertengahan 2021 yang mengakibatkan rumah sakit penuh dan angka kematian juga tinggi banget.
