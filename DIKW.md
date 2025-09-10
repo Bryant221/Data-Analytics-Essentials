@@ -21,4 +21,4 @@
 # 4. Wisdom 🎯
 > Wisdom (kebijaksanaan) adalah level tertinggi, yang dimana pemahaman yang dipakai untuk mengambil keputusan yang lebih tepat dan bijak. Biasanya wisdom akan menjadi kebijakan atau solusi yang akan dilakukan dan dilaksanakan untuk mengatasi masalah yang dihadapi.
 - Menggunakan **early warning** berbasis indikator gabungan (positivity rate, rawat inap, uptake vaksin booster), bukan angka kasus mentah saja.  
-- Komunikasi risiko perlu menekankan **ketidakpastian data** (testing, pelaporan) sehingga kebijakan tidak semata “kasus harian”.
+- Komunikasi risiko perlu menekankan ketidakpastian data (testing, pelaporan) sehingga kebijakan tidak semata “kasus harian”.
